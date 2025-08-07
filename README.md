@@ -181,15 +181,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **VADER Sentiment** for social media optimized analysis
 - **Selenium** community for web automation tools
 
-## 📞 Support & Contact
-
-- 📧 **Email**: support@atomberg-sov.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/your-username/atomberg-sov-analysis/issues)
-- 📚 **Wiki**: [Project Wiki](https://github.com/your-username/atomberg-sov-analysis/wiki)
-
----
-
-**🎉 Ready for Production Deployment**
-
-Built with ❤️ for data-driven marketing intelligence. Star ⭐ this repo if you find it useful!
-# atomberg-sov-analysis
