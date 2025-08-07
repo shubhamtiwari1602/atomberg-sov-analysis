@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "analysis_type": "standalone_demo",
+    "keywords": [
+      "smart fan"
+    ],
+    "platforms": [
+      "youtube",
+      "twitter",
+      "google"
+    ],
+    "timestamp": "20250807_093031",
+    "total_posts_analyzed": 30
+  },
+  "sov_metrics": {
+    "overall_sov": 0.4415584415584416,
+    "mention_share": {
+      "atomberg": 0.5238095238095238,
+      "total_mentions": 42,
+      "atomberg_mentions": 22
+    },
+    "sentiment_share": {
+      "positive": 0.3181818181818182,
+      "atomberg_positive_mentions": 7,
+      "atomberg_sentiment_distribution": {
+        "positive": 0.3181818181818182,
+        "negative": 0.6818181818181819,
+        "neutral": 0
+      }
+    },
+    "platform_breakdown": {
+      "youtube": 0.42857142857142855,
+      "twitter": 0.6428571428571429,
+      "google": 0.47619047619047616
+    },
+    "total_posts_analyzed": 30,
+    "atomberg_mentions": 22,
+    "competitor_mentions": 20
+  },
+  "insights": {
+    "key_findings": [
+      "Strong Share of Voice: Atomberg has commanding market presence",
+      "Top performing platform: twitter (64.3% SoV)",
+      "Sentiment concerns: Address customer pain points and feedback"
+    ],
+    "recommendations": [
+      "Maintain current strategy and explore adjacent product categories",
+      "Increase investment in twitter content and advertising",
+      "Develop customer support content and address common issues",
+      "Create comparison content highlighting Atomberg's unique value propositions",
+      "Develop user-generated content campaigns featuring customer success stories",
+      "Optimize for smart home and IoT-related keyword clusters"
+    ]
+  },
+  "sample_data": {
+    "youtube": [
+      {
+        "platform": "youtube",
+        "id": "yt_mock_0",
+        "title": "Best Smart Ceiling Fans 2024 - Atomberg vs Havells Comparison",
+        "description": "Detailed analysis and review of Best with technical specifications and user experience.",
+        "channel": "TechReviewer1",
+        "published_at": "2024-01-01T00:00:00Z",
+        "url": "https://youtube.com/watch?v=mock_0",
+        "views": 20043,
+        "likes": 907,
+        "comments": 30,
+        "mentions_atomberg": true,
+        "mentions_competitors": [
+          "Havells"
+        ],
+        "text_content": "Best Smart Ceiling Fans 2024 - Atomberg vs Havells Comparison"
+      },
+      {
+        "platform": "youtube",
+        "id": "yt_mock_1",
+        "title": "Smart Fan Review: Energy Efficient BLDC Motors Explained",
+        "description": "Detailed analysis and review of Smart with technical specifications and user experience.",
+        "channel": "TechReviewer2",
+        "published_at": "2024-01-01T00:00:00Z",
+        "url": "https://youtube.com/watch?v=mock_1",
+        "views": 47204,
+        "likes": 919,
+        "comments": 76,
+        "mentions_atomberg": false,
+        "mentions_competitors": [],
+        "text_content": "Smart Fan Review: Energy Efficient BLDC Motors Explained"
+      },
+      {
+        "platform": "youtube",
+        "id": "yt_mock_2",
+        "title": "Installing IoT Ceiling Fan with App Control - Step by Step",
+        "description": "Detailed analysis and review of Installing with technical specifications and user experience.",
+        "channel": "TechReviewer3",
+        "published_at": "2024-01-01T00:00:00Z",
+        "url": "https://youtube.com/watch?v=mock_2",
+        "views": 17547,
+        "likes": 998,
+        "comments": 171,
+        "mentions_atomberg": false,
+        "mentions_competitors": [],
+        "text_content": "Installing IoT Ceiling Fan with App Control - Step by Step"
+      }
+    ],
+    "twitter": [
+      {
+        "platform": "twitter",
+        "id": "tw_mock_0",
+        "text": "Just installed @atomberg smart fan and the energy savings are incredible! #SmartHome #EnergyEfficient",
+        "author": "user_1",
+        "author_followers": 3260,
+        "retweets": 27,
+        "likes": 82,
+        "replies": 25,
+        "mentions_atomberg": true,
+        "mentions_competitors": [],
+        "text_content": "Just installed @atomberg smart fan and the energy savings are incredible! #SmartHome #EnergyEfficient"
+      },
+      {
+        "platform": "twitter",
+        "id": "tw_mock_1",
+        "text": "Comparing smart ceiling fans - @havells vs @orient vs @atomberg. Which should I buy? #Help",
+        "author": "user_2",
+        "author_followers": 3690,
+        "retweets": 19,
+        "likes": 161,
+        "replies": 26,
+        "mentions_atomberg": true,
+        "mentions_competitors": [
+          "Havells",
+          "Orient"
+        ],
+        "text_content": "Comparing smart ceiling fans - @havells vs @orient vs @atomberg. Which should I buy? #Help"
+      },
+      {
+        "platform": "twitter",
+        "id": "tw_mock_2",
+        "text": "My Atomberg fan has been running silently for 2 years. Best investment ever! #SmartFan",
+        "author": "user_3",
+        "author_followers": 2104,
+        "retweets": 34,
+        "likes": 149,
+        "replies": 6,
+        "mentions_atomberg": true,
+        "mentions_competitors": [],
+        "text_content": "My Atomberg fan has been running silently for 2 years. Best investment ever! #SmartFan"
+      }
+    ],
+    "google": [
+      {
+        "platform": "google",
+        "id": "google_mock_0",
+        "title": "Best Smart Ceiling Fans in India 2024 - Complete Buying Guide",
+        "description": "Compare top smart ceiling fans from Atomberg, Havells, Orient. Energy efficient BLDC motors with app control.",
+        "url": "https://example0.com/smart-fans",
+        "position": 1,
+        "page": 1,
+        "mentions_atomberg": true,
+        "mentions_competitors": [
+          "Havells",
+          "Orient"
+        ],
+        "text_content": "Best Smart Ceiling Fans in India 2024 - Complete Buying Guide Compare top smart ceiling fans from Atomberg, Havells, Orient. Energy efficient BLDC motors with app control.",
+        "domain": "example0.com"
+      },
+      {
+        "platform": "google",
+        "id": "google_mock_1",
+        "title": "Atomberg Smart Fan Review: IoT Ceiling Fan with Remote Control",
+        "description": "Detailed review of Atomberg smart ceiling fan features, installation, energy efficiency, and smart home integration.",
+        "url": "https://example1.com/smart-fans",
+        "position": 2,
+        "page": 1,
+        "mentions_atomberg": true,
+        "mentions_competitors": [],
+        "text_content": "Atomberg Smart Fan Review: IoT Ceiling Fan with Remote Control Detailed review of Atomberg smart ceiling fan features, installation, energy efficiency, and smart home integration.",
+        "domain": "example1.com"
+      },
+      {
+        "platform": "google",
+        "id": "google_mock_2",
+        "title": "Smart Ceiling Fans - Buy Online at Best Prices | Amazon.in",
+        "description": "Shop smart ceiling fans from top brands. Atomberg, Havells, Orient, Bajaj with free delivery and installation.",
+        "url": "https://example2.com/smart-fans",
+        "position": 3,
+        "page": 1,
+        "mentions_atomberg": true,
+        "mentions_competitors": [
+          "Havells",
+          "Orient",
+          "Bajaj"
+        ],
+        "text_content": "Smart Ceiling Fans - Buy Online at Best Prices | Amazon.in Shop smart ceiling fans from top brands. Atomberg, Havells, Orient, Bajaj with free delivery and installation.",
+        "domain": "example2.com"
+      }
+    ]
+  }
+}

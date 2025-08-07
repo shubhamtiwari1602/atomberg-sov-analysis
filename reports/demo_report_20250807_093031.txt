@@ -1,0 +1,30 @@
+ATOMBERG SHARE OF VOICE ANALYSIS - DEMO REPORT
+=======================================================
+
+EXECUTIVE SUMMARY
+--------------------
+Overall Share of Voice: 44.16%
+Total Posts Analyzed: 30
+Atomberg Mentions: 22
+Competitor Mentions: 20
+
+PLATFORM BREAKDOWN
+--------------------
+Youtube: 42.86%
+Twitter: 64.29%
+Google: 47.62%
+
+KEY INSIGHTS
+---------------
+1. Strong Share of Voice: Atomberg has commanding market presence
+2. Top performing platform: twitter (64.3% SoV)
+3. Sentiment concerns: Address customer pain points and feedback
+
+RECOMMENDATIONS
+------------------
+1. Maintain current strategy and explore adjacent product categories
+2. Increase investment in twitter content and advertising
+3. Develop customer support content and address common issues
+4. Create comparison content highlighting Atomberg's unique value propositions
+5. Develop user-generated content campaigns featuring customer success stories
+6. Optimize for smart home and IoT-related keyword clusters
